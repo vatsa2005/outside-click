@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+.App {
+  color: #ffffff;
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.para {
+  text-align: justify;
+  padding-block: 20px;
+  padding-inline: 20px;
+}
+
+.display {
+  display: inline-block;
+  text-align: justify;
+}
