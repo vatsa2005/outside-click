@@ -6,7 +6,7 @@
 
 - Ref
 
-- class 
+- Class 
 
-- display type 
+- Display Type 
 
