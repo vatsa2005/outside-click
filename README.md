@@ -4,9 +4,9 @@
 
 ## Parameters
 
-- Ref
+- Ref: React ref passed as to the ref attribute of a JSX tag.
 
-- Class 
+- Class: The name of the class that must be added. 
 
-- Display Type 
+- Display Type: The display of the element. 
 
