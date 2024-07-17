@@ -8,5 +8,5 @@
 
 - Class: The name of the class that must be added. 
 
-- Display Type: The display of the element. 
+- Display Type: The display of the element. (Eg.: flex, inline, inline-block, block, hidden)
 
